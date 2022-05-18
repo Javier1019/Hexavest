@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:ffi';
-import 'package:hexavest/coin.dart';
+import 'package:hexavest/models/coin.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 

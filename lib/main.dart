@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'dart:convert';
 
-import 'dataservice.dart';
-import 'coin.dart';
+import 'services/dataservice.dart';
+import 'models/coin.dart';
 
 final Map<int, Color> _lightgreenblueMap = {
   50: const Color.fromARGB(255, 0, 217, 255),
